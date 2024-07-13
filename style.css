@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card1 {
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*fHrAZJ1_L0Ff9dvVexL5_A.png);
+    height: 100vh;
+}
+
+
+.image1 {
+    height: 100px;
+}
+
+.head1 {
+    font-family: Roboto;
+    font-size: 25px;
+    color: yellow;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    text-decoration: overline;
+}
+
+.head2 {
+    font-family: Roboto;
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.para2 {
+    font-family: Lobster;
+    font-size: 25px;
+    color: green;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+}
+
+.head3 {
+    font-family: Roboto;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#name {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#mail {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#number {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.card4 {
+    margin-top: 150px;
+}
